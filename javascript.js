@@ -1,3 +1,1 @@
-export default function (code) {
-  eval(code)
-}
+export default eval
